@@ -56,5 +56,5 @@ git clone https://github.com/your-username/sales-customer-analytics.git
 cd sales-customer-analytics
 
 Lets Connect:
-LinkedIn: https://www.linkedin.com/in/tanmay-sharma-800599373/
-Github: https://github.com/Tanu272004/E2E-Sales-Customer-Analytics-Dashboard-End-to-End-pipeline-with-Python-MySQL-Power-BI-.git
+LinkedIn: https://www.linkedin.com/in/pranchal-katiyar-29230018b/
+Github: https://github.com/pranchal07/InsightDash---Sales-Analytics-Dashboard
